@@ -1,0 +1,21 @@
+{
+  "name": "astro-test",
+  "version": "1.0.0",
+  "description": "Testing astro framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [
+    "astro"
+  ],
+  "author": "Jean Solis",
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/netlify": "^5.5.1",
+    "astro": "^4.14.2"
+  }
+}
